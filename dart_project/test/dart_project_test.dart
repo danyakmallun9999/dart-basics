@@ -1,5 +1,6 @@
 import 'package:dart_project/dart_project.dart';
-import 'package:test/test.dart';
+import 'package:test/expect.dart';
+import 'package:test/scaffolding.dart';
 
 void main() {
   test('calculate', () {
